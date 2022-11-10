@@ -4,6 +4,8 @@ Simple affiliate system for [seoclerks.com](https://www.seoclerks.com/linkin/721
 
 ![Screenshot](https://awesomescreenshot.s3.amazonaws.com/image/3006981/34274094-788520ade9272de8778980166e17c578.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20221110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221110T181711Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=586ff8f67b42902f44dd75c178a4c190c93486d54043c546fd321b29569a4ffa)
 
+#### Demo: [https://hansalscripts.github.io/seoclerks-affiliate-system](https://hansalscripts.github.io/seoclerks-affiliate-system)
+
 ## Features
 - responsive design.
 - vertical and horizintal cards.
