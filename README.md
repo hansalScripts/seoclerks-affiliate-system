@@ -14,20 +14,21 @@ _Search by items, username, and categories, and so on ..._
 ## Installation
 - download .zip file from the top of the page.
 - unzip file on your PC.
-- _open package.json file._
+- _open /source/package.json file._
 - ```replace the url in the first line, with your domain url where you will upload the script to it.```
-- _open src/components/model/Endpoint.js_
+- _open /source/src/components/model/Endpoint.js_
 - ```replace "https://fcash.us/seoclerks-response.php" _with_ "yourdoamin.com/seoclerks-response.php" ```
 - download and install [node js](https://nodejs.org/en/download/) software to your PC
-- Right click into the folder you unziped.
+- Right click into the "source" folder you unziped.
 - _Git Bash Here_
 - run this command into the terminal will be opened
 ```sh
 npm install
 npm run build
 ```
-- upload the "build" folder content to your server
-- upload "seoclerks-response.php" file to your server root.
+- upload the "build" folder content to your server.
+- open "seoclerks-response.php" replace your affiliate ID
+- then upload "seoclerks-response.php" file to your server root.
 - that is it, you can visit your site and check it.
 
 
