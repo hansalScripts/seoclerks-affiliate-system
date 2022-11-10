@@ -1,0 +1,17 @@
+{
+  "short_name": "SeoClerks App With React",
+  "name": "SeoClerks API App with React Framework",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.png",
+      "type": "image/png",
+      "sizes": "192x70"
+    }	    
+  ],
+  "start_url": "."
+}
