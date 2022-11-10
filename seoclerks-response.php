@@ -15,6 +15,10 @@ foreach($get as $key => $value){
     }elseif($key == 'type')
     {
         $url .= '?type=' . $value;
+
+    }elseif($key == 'aff')
+    {
+        $url .= '?aff=721499'; // 721499 replace with your affiliate ID
     }else
     
     $url .= '&' . $key . '=' . $value;
